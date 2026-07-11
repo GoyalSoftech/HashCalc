@@ -20,6 +20,28 @@ Trusted by **50,000+ users on Google Play**, HashCalc handles everything from qu
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/photo_6212937216535760695_y.jpg" width="30%" alt="HashCalc Home Screen" />
+  <img src="screenshots/photo_6212937216535760696_y.jpg" width="30%" alt="HMAC Generation" />
+  <img src="screenshots/photo_6212937216535760697_y.jpg" width="30%" alt="Calculation History" />
+</p>
+<br>
+<p align="center">
+  <img src="screenshots/photo_6212937216535760698_y.jpg" width="30%" alt="HashCalc Home Screen" />
+  <img src="screenshots/photo_6212937216535760699_y.jpg" width="30%" alt="HMAC Generation" />
+  <img src="screenshots/photo_6212937216535760700_y.jpg" width="30%" alt="Calculation History" />
+</p>
+<br>
+<p align="center">
+  <img src="screenshots/photo_6212937216535760701_y.jpg" width="30%" alt="HashCalc Home Screen" />
+  <img src="screenshots/photo_6212937216535760702_y.jpg" width="30%" alt="HMAC Generation" />
+  <img src="screenshots/photo_6212937216535760703_y.jpg" width="30%" alt="Calculation History" />
+</p>
+
+---
+
 ## 📥 Download
 
 Get the official, signed production build directly from the Google Play Store:
