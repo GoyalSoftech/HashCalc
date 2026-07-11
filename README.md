@@ -1,7 +1,6 @@
 # HashCalc: MD5, SHA, HMAC 📱🔑
 
 [![Google Play Downloads](https://img.shields.io/badge/Google%20Play-50K%2B%20Downloads-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.goyalsoftech.hashcalc)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **HashCalc** is a fast, secure, and completely offline cryptographic utility for Android. It allows you to compute and verify message digests (hashes) and keyed-hash message authentication codes (HMAC) instantly on your mobile device. 
 
@@ -26,15 +25,3 @@ Trusted by **50,000+ users on Google Play**, HashCalc handles everything from qu
 Get the official, signed production build directly from the Google Play Store:
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="220" alt="Get it on Google Play">](https://play.google.com/store/apps/details?id=com.goyalsoftech.hashcalc)
-
----
-
-## 🤝 Contributing
-
-Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request to help make HashCalc even better.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
