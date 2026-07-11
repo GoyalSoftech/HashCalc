@@ -33,12 +33,6 @@ Trusted by **50,000+ users on Google Play**, HashCalc handles everything from qu
   <img src="screenshots/photo_6212937216535760699_y.jpg" width="30%" alt="HMAC Generation" />
   <img src="screenshots/photo_6212937216535760700_y.jpg" width="30%" alt="Calculation History" />
 </p>
-<br>
-<p align="center">
-  <img src="screenshots/photo_6212937216535760701_y.jpg" width="30%" alt="HashCalc Home Screen" />
-  <img src="screenshots/photo_6212937216535760702_y.jpg" width="30%" alt="HMAC Generation" />
-  <img src="screenshots/photo_6212937216535760703_y.jpg" width="30%" alt="Calculation History" />
-</p>
 
 ---
 
